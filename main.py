@@ -1,1 +1,1 @@
-prigsdfcadsvsdfvsfnt("Hola mundo")
+print("Hola mundo")
